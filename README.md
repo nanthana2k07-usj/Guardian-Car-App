@@ -203,6 +203,12 @@ git push origin feature-name
 
 ---
 
+## Hardware Simulation
+
+The IoT hardware prototype was developed and tested using Wokwi.
+
+🔗 **Simulation:** https://wokwi.com/projects/469946126933809153
+
 ## 📄 License
 
 This project is developed for educational, research, and hackathon purposes.
